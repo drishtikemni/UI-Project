@@ -1,1 +1,2 @@
 # UI-Project
+This project is a web based shopping system for an existing e-shop. The project’s objective is to deliver an online shopping website which sells customized, hand painted and hand crafted products. From hand painted clothing, photo frames, gift hampers, explosion box, stickers, hand painted masks, handmade cards, painted customized footwear, customized polaroids , illustrations, customized hampers (made according to budget), this website will provide it all. The brand is for a gender neutral audience. All the products can be used by everyone.
